@@ -3,6 +3,7 @@
 Enrollment calculator to find the days of enrollment for transfer students based on the following following parameters:
 - Enrollment Date
 - Unenrollment Date
+    - In some cases a student was unenrolled durning a non-service day.
 
 For this particular LEA the following dates are non-service days:
 |Date|
